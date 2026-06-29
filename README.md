@@ -27,3 +27,15 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 
 ---
 *If you find any of these solutions helpful, feel free to give the repository a ⭐!*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+<!---LeetCode Topics End-->
