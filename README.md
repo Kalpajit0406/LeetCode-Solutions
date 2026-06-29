@@ -37,11 +37,13 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
+| [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -51,6 +53,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
+| [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
