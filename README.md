@@ -38,6 +38,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
+| [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -70,4 +71,20 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 <!---LeetCode Topics End-->
