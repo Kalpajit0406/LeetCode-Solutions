@@ -44,6 +44,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -54,6 +55,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 ## Design
@@ -96,4 +98,8 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
