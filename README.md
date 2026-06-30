@@ -104,6 +104,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0029-divide-two-integers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +130,8 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
