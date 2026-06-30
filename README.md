@@ -107,6 +107,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 ## Backtracking
@@ -116,6 +117,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Divide and Conquer
@@ -133,6 +135,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
