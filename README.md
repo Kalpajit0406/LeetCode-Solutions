@@ -33,6 +33,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -57,6 +58,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
