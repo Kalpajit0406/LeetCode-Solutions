@@ -53,6 +53,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0005-longest-palindromic-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
@@ -68,6 +69,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0001-two-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 ## Design
@@ -127,6 +129,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
