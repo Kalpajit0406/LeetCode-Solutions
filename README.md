@@ -36,6 +36,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0001-two-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
@@ -85,6 +86,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -107,6 +109,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
