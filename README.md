@@ -118,6 +118,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0015-3sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -138,6 +139,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Divide and Conquer
