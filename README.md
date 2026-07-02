@@ -44,6 +44,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -150,6 +151,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
