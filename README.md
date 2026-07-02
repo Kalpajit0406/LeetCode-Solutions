@@ -48,6 +48,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0040-combination-sum-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -113,6 +114,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0015-3sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -165,6 +167,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0039-combination-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
