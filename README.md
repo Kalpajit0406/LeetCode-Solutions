@@ -47,6 +47,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0039-combination-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -163,6 +164,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0037-sudoku-solver](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
