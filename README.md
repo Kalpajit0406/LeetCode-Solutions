@@ -65,6 +65,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0022-generate-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -125,6 +126,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0002-add-two-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
