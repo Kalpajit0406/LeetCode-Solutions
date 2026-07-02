@@ -66,6 +66,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0032-longest-valid-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -101,6 +102,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0005-longest-palindromic-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +185,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0044-wildcard-matching](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
