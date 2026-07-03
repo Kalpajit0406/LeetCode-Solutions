@@ -182,6 +182,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0043-multiply-strings](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0024-swap-nodes-in-pairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0044-wildcard-matching](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
