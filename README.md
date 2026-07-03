@@ -53,6 +53,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0049-group-anagrams](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -138,11 +139,13 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0036-valid-sudoku](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
