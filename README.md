@@ -178,6 +178,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0046-permutations](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
