@@ -54,6 +54,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0051-n-queens](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -115,6 +116,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0044-wildcard-matching](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0011-container-with-most-water](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
