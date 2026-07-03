@@ -51,6 +51,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0047-permutations-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -176,6 +177,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0040-combination-sum-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
