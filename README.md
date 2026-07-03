@@ -50,6 +50,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0046-permutations](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -71,6 +72,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0038-count-and-say](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -90,6 +92,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0049-group-anagrams](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 ## Design
@@ -116,6 +119,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0016-3sum-closest](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
