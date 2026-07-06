@@ -121,6 +121,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0045-jump-game-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -184,6 +185,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0048-rotate-image](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,4 +241,8 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
