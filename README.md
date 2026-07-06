@@ -166,6 +166,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0018-4sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
