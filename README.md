@@ -59,6 +59,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0057-insert-interval](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -124,6 +125,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0055-jump-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0054-spiral-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
