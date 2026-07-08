@@ -203,6 +203,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0075-sort-colors](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0061-rotate-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
