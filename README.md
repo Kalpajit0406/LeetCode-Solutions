@@ -64,6 +64,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0073-set-matrix-zeroes](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -220,6 +221,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0047-permutations-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
+| [0078-subsets](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +256,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
