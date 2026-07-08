@@ -89,6 +89,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0058-length-of-last-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0065-valid-number/) | Hard |
 | [0072-edit-distance](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -111,6 +112,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0037-sudoku-solver](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 ## Design
@@ -256,6 +258,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
