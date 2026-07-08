@@ -65,6 +65,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0074-search-a-2d-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -91,6 +92,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0065-valid-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0065-valid-number/) | Hard |
 | [0072-edit-distance](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -153,6 +155,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -170,6 +173,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0064-minimum-path-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -222,6 +226,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0051-n-queens](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
