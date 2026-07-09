@@ -105,6 +105,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3713-longest-balanced-substring-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -329,4 +331,12 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3713-longest-balanced-substring-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3713-longest-balanced-substring-i/) | Medium |
 <!---LeetCode Topics End-->
