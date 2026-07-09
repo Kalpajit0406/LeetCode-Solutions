@@ -70,6 +70,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -159,6 +160,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0049-group-anagrams](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
