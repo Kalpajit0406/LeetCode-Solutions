@@ -79,6 +79,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0074-search-a-2d-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0076-minimum-window-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,4 +310,12 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
