@@ -228,6 +228,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0060-permutation-sequence](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0089-gray-code](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0052-n-queens-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +282,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
