@@ -103,6 +103,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -255,6 +256,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
