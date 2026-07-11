@@ -181,6 +181,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | ------- | ------- |
 | [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -355,13 +356,16 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
