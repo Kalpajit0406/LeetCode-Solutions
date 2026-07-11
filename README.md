@@ -102,6 +102,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0076-minimum-window-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -157,6 +158,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0072-edit-distance](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0087-scramble-string](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
