@@ -184,11 +184,13 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0098-validate-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -362,6 +364,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0098-validate-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +373,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0098-validate-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
