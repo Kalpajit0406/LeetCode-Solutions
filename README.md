@@ -192,6 +192,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0101-symmetric-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -202,6 +203,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -390,6 +392,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +411,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
