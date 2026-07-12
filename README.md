@@ -115,6 +115,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0093-restore-ip-addresses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -267,6 +268,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
