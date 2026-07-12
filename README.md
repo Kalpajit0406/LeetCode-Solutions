@@ -79,6 +79,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0119-pascals-triangle-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -178,6 +179,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0119-pascals-triangle-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0044-wildcard-matching](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
