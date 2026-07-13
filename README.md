@@ -88,6 +88,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0136-single-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -127,6 +128,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0131-palindrome-partitioning](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -160,6 +162,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0133-clone-graph](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -173,6 +176,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -204,6 +208,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0131-palindrome-partitioning](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -339,6 +344,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0093-restore-ip-addresses](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0113-path-sum-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -506,4 +512,5 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 <!---LeetCode Topics End-->
