@@ -151,6 +151,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -226,6 +227,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -242,6 +244,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0127-word-ladder](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0133-clone-graph](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -406,6 +409,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
