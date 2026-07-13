@@ -219,6 +219,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -437,6 +438,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -462,6 +464,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
