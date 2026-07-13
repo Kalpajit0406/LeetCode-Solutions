@@ -164,6 +164,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -303,6 +304,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0088-merge-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +367,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
