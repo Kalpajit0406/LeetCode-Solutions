@@ -85,6 +85,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0130-surrounded-regions](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -381,6 +382,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0078-subsets](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
