@@ -91,6 +91,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -217,6 +218,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0132-palindrome-partitioning-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
