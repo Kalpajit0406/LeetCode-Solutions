@@ -225,6 +225,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0056-merge-intervals](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0147-insertion-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -375,6 +376,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0142-linked-list-cycle-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0147-insertion-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
