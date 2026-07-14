@@ -89,6 +89,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0137-single-number-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -166,6 +167,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0141-linked-list-cycle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -337,6 +339,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0066-plus-one](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0089-gray-code](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,4 +548,8 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 <!---LeetCode Topics End-->
