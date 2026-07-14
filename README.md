@@ -92,6 +92,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -145,6 +146,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Hash Table
