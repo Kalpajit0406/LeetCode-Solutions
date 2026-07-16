@@ -137,6 +137,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0165-compare-version-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -331,6 +332,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0148-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0165-compare-version-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
