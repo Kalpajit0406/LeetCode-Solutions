@@ -175,6 +175,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0142-linked-list-cycle-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -325,6 +326,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0143-reorder-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +396,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0146-lru-cache](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
