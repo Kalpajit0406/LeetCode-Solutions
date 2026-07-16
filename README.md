@@ -95,6 +95,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -241,6 +242,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0088-merge-sorted-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0164-maximum-gap](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -570,4 +572,12 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
