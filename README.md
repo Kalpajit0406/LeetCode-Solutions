@@ -184,6 +184,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -450,6 +451,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0144-binary-tree-preorder-traversal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
