@@ -97,6 +97,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0162-find-peak-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -184,6 +185,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -248,6 +250,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0147-insertion-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
+| [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -420,6 +423,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -498,6 +502,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
