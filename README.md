@@ -605,4 +605,8 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
