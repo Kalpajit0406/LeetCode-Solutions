@@ -98,6 +98,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0164-maximum-gap](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0174-dungeon-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -236,6 +237,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0139-word-break](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0174-dungeon-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -309,6 +311,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0079-word-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0174-dungeon-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
