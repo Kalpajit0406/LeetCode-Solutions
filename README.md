@@ -609,4 +609,5 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
