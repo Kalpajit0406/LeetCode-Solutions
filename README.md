@@ -99,6 +99,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
+| [0179-largest-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -142,6 +143,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0151-reverse-words-in-a-string](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0179-largest-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -254,6 +256,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0148-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -355,6 +358,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
+| [0179-largest-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
