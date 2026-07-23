@@ -101,6 +101,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0174-dungeon-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0179-largest-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -352,6 +353,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0160-intersection-of-two-linked-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +382,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0149-max-points-on-a-line](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0189-rotate-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
