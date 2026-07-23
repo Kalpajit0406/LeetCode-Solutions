@@ -440,6 +440,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0148-sort-list](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -470,6 +471,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0137-single-number-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
