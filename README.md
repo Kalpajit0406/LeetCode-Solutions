@@ -103,6 +103,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -289,6 +290,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0144-binary-tree-preorder-traversal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -307,6 +309,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0130-surrounded-regions](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -324,6 +327,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0085-maximal-rectangle](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
+| [0200-number-of-islands](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0749-contain-virus](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0749-contain-virus/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -511,6 +515,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
