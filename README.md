@@ -480,6 +480,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
