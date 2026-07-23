@@ -195,6 +195,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0166-fraction-to-recurring-decimal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0202-happy-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -362,6 +363,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0165-compare-version-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +393,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0189-rotate-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
