@@ -647,4 +647,5 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0192-word-frequency/) | Medium |
+| [0193-valid-phone-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
