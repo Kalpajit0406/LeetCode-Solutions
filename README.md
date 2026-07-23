@@ -102,6 +102,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0179-largest-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -245,6 +246,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0152-maximum-product-subarray](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0174-dungeon-game](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0198-house-robber](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
