@@ -643,4 +643,8 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
