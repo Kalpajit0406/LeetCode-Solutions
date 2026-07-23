@@ -144,6 +144,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0165-compare-version-numbers](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0179-largest-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0179-largest-number/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -189,6 +190,7 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0160-intersection-of-two-linked-lists](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0745-prefix-and-suffix-search](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0745-prefix-and-suffix-search/) | Hard |
 | [0748-shortest-completing-word](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -460,11 +462,13 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0090-subsets-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -622,4 +626,12 @@ This repository utilizes an automated workflow. Whenever a solution is marked as
 | [0183-customers-who-never-order](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kalpajit0406/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
